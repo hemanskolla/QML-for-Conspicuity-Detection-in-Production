@@ -38,8 +38,8 @@ Team Member 1:
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Youngmin Chris Choi
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-mlnzAcN8g5vJ5Pu):
 
 
 ### Project Solution:
