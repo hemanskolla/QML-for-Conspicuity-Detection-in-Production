@@ -1,0 +1,10 @@
+Each of the 3 Jupyter Notebooks contains one of the 3 codebooks to complete.
+
+The progress images serve as proof on my account, while the notebooks have all relevant code.
+'plotter' failed locally, but worked on the PennyLane site. In 'plotted_images', you can find
+the results of all 'plotter' calls.
+
+Over the course of the codebook, I learned a lot that explained most of the code excerpts
+I had found when following the tutorials in Tasks 2 & 3. It was very low-level, but understanding
+the building blocks helped make it make more sense. Overall, I did learn a lot, and plan to 
+continue completing the Pennylane codebooks.
