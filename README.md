@@ -47,7 +47,11 @@ _Include a comprehensive summary of all important information about your project
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+Presentation Deck:
+https://docs.google.com/presentation/d/1C-5ubhCRQcQq_rbq9iJxfS3uNF-CelcbKa0h11fftWw/edit?usp=sharing
+
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+
+
 
